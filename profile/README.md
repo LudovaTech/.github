@@ -1,13 +1,8 @@
 ## Welcome! 🙌
 
-Welcome in the Github organization of team LudovaTech from Louis-le-Grand high school in France!
+Welcome in the Github organization of team LudovaTech from Louis-le-Grand high school in France! This organization was already used during the 2023-2024 school year. I encourage you to take a look at old repositories!
 
-
-This organization was already used during the 2023-2024 school year. I encourage you to take a look at old repositories!
-
-
-Last year, six students were taking part in the club, among which four actively participated in the RoboCup Junior competition. This year, however, the club has more than 30 interested members! We are even looking forward to participating in multiple RoboCup Junior Leagues, such as Rescue Line.
-
+Last year, six students were taking part in the school's robotics club, among which four actively participated in the RoboCup Junior competition. This year, however, the club has more than 30 interested members! We are even looking forward to participating in multiple RoboCup Junior Leagues, such as Rescue Line.
 
 ### Useful Links
 - [Other teams' posters from previous years](https://github.com/robocup-junior/awesome-rcj-soccer)
